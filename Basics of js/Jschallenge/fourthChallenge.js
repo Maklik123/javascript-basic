@@ -26,3 +26,4 @@ if(johnObject.bmi === maryObject.bmi){
 }else{
     console.log("Mary Bmi "+ maryObject.bmi +" is greater to john Bmi i-e "+ johnObject.bmi);
 }
+
